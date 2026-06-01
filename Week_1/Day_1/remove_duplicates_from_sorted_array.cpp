@@ -1,5 +1,7 @@
 class Solution {
     public:
+    //Time Complexity: O(n)
+    //Space Complexity: O(1)
         int removeDuplicates(vector<int>& nums) {
             int j=1;
             int count=1;

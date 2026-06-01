@@ -1,5 +1,7 @@
 class Solution {
     public:
+    //Time Complexity: O(n2)
+    //Space Complexity: O(1)
         vector<int> twoSum(vector<int>& nums, int target) {
             vector<int>ans;
             for(int i=0;i<nums.size()-1;i++){
