@@ -19,9 +19,9 @@ I will be regularly updating this repository with solutions, time complexities, 
 ### Week 1
 
 #### Day 1
-- [X] Two Sum
-- [X] Remove Duplicates from Sorted Array
-- [X] Best Time to Buy and Sell Stock
+- [X] [Two Sum](Week_1/Day_1/two_sum.cpp)
+- [X] [Remove Duplicates from Sorted Array](Week_1/Day_1/remove_duplicates_from_sorted_array.cpp)
+- [X] [Best Time to Buy and Sell Stock](Week_1/Day_1/best_time_toBuyandSellStock.cpp)
 
 ---
 
