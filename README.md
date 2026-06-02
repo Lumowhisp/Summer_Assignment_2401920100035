@@ -23,16 +23,25 @@ I will be regularly updating this repository with solutions, time complexities, 
 - [X] [Remove Duplicates from Sorted Array](Week_1/Day_1/remove_duplicates_from_sorted_array.cpp)
 - [X] [Best Time to Buy and Sell Stock](Week_1/Day_1/best_time_toBuyandSellStock.cpp)
 
+#### Day 2
+- [X] [Maximum Subarray](Week_1/Day_2/maximum_subarray.cpp)
+- [X] [Contains Duplicate](Week_1/Day_2/contains_duplicate.cpp)
+- [X] [Maximum Average Subarray I](Week_1/Day_2/maximumAverage_subarray_I.cpp)
+
 ---
 
 ## Repository Structure
 
 ```
 Week_1/
-└── Day_1/
-    ├── two_sum.cpp
-    ├── remove_duplicates_from_sorted_array.cpp
-    └── best_time_toBuyandSellStock.cpp
+├── Day_1/
+│   ├── two_sum.cpp
+│   ├── remove_duplicates_from_sorted_array.cpp
+│   └── best_time_toBuyandSellStock.cpp
+└── Day_2/
+    ├── maximum_subarray.cpp
+    ├── contains_duplicate.cpp
+    └── maximum_average_subarray_I.cpp
 ```
 
 ---
