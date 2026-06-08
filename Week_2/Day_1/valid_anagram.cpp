@@ -1,0 +1,23 @@
+class Solution {
+    public:
+        bool isAnagram(string s, string t) {
+            unordered_map<char,int>freq;
+            if(s.size()!=t.size()){
+                return false;
+            }
+            for(auto x:s){
+                freq[x]++;
+            }
+            for(auto ch:t){
+                freq[ch]--;
+            }
+            for(auto &it:freq){
+                if(it.second != 0){
+                    return false;
+                }
+            }
+            return true;
+    
+            
+        }
+    };
