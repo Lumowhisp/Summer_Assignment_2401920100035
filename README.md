@@ -85,14 +85,14 @@ I will be regularly updating this repository with solutions, time complexities, 
 - [x] [Middle of the Linked List](Week_3/Day_1/middle_of_the_linked_list.cpp)
 
 #### Day 2: Linked List
-- [ ] [Merge Two Sorted Lists](Week_3/Day_2/merge_two_sorted_lists.cpp)
-- [ ] [Remove Nth Node From End of List](Week_3/Day_2/remove_nth_node_from_end_of_list.cpp)
-- [ ] [Palindrome Linked List](Week_3/Day_2/palindrome_linked_list.cpp)
+- [x] [Merge Two Sorted Lists](Week_3/Day_2/merge_two_sorted_lists.cpp)
+- [x] [Remove Nth Node From End of List](Week_3/Day_2/remove_nth_node_from_end_of_list.cpp)
+- [x] [Palindrome Linked List](Week_3/Day_2/palindrome_linked_list.cpp)
 
 #### Day 3: Stack
-- [ ] [Valid Parentheses](Week_3/Day_3/valid_parentheses.cpp)
-- [ ] [Min Stack](Week_3/Day_3/min_stack.cpp)
-- [ ] [Next Greater Element I](Week_3/Day_3/next_greater_element_i.cpp)
+- [x] [Valid Parentheses](Week_3/Day_3/valid_parentheses.cpp)
+- [x] [Min Stack](Week_3/Day_3/min_stack.cpp)
+- [x] [Next Greater Element I](Week_3/Day_3/next_greater_element_i.cpp)
 
 #### Day 4: Stack
 - [ ] [Daily Temperatures](Week_3/Day_4/daily_temperatures.cpp)
