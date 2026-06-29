@@ -18,8 +18,8 @@ I will be regularly updating this repository with solutions, time complexities, 
 
 ### Progress Overview
 
-- 🚧 In Progress: Week 3
-- 🎯 Current Focus: Linked List, Stack, and Queue
+- 🚧 In Progress: Week 4
+- 🎯 Current Focus: Tree
 
 ---
 
@@ -95,41 +95,41 @@ I will be regularly updating this repository with solutions, time complexities, 
 - [x] [Next Greater Element I](Week_3/Day_3/next_greater_element_i.cpp)
 
 #### Day 4: Stack
-- [ ] [Daily Temperatures](Week_3/Day_4/daily_temperatures.cpp)
-- [ ] [Evaluate Reverse Polish Notation](Week_3/Day_4/evaluate_reverse_polish_notation.cpp)
-- [ ] [Largest Rectangle in Histogram](Week_3/Day_4/largest_rectangle_in_histogram.cpp)
+- [x] [Daily Temperatures](Week_3/Day_4/daily_temperatures.cpp)
+- [x] [Evaluate Reverse Polish Notation](Week_3/Day_4/evaluate_reverse_polish_notation.cpp)
+- [x] [Largest Rectangle in Histogram](Week_3/Day_4/largest_rectangle_in_histogram.cpp)
 
 #### Day 5: Queue / Deque
-- [ ] [Implement Queue using Stacks](Week_3/Day_5/implement_queue_using_stacks.cpp)
-- [ ] [Number of Recent Calls](Week_3/Day_5/number_of_recent_calls.cpp)
-- [ ] [Sliding Window Maximum](Week_3/Day_5/sliding_window_maximum.cpp)
+- [x] [Implement Queue using Stacks](Week_3/Day_5/implement_queue_using_stacks.cpp)
+- [x] [Number of Recent Calls](Week_3/Day_5/number_of_recent_calls.cpp)
+- [x] [Sliding Window Maximum](Week_3/Day_5/sliding_window_maximum.cpp)
 
 ### Week 4 — Trees
 
 #### Day 1: Binary Tree Basics
-- [ ] [Maximum Depth of Binary Tree](Week_4/Day_1/maximum_depth_of_binary_tree.cpp)
-- [ ] [Invert Binary Tree](Week_4/Day_1/invert_binary_tree.cpp)
-- [ ] [Same Tree](Week_4/Day_1/same_tree.cpp)
+- [x] [Maximum Depth of Binary Tree](Week_4/Day_1/maximum_depth_of_binary_tree.cpp)
+- [x] [Invert Binary Tree](Week_4/Day_1/invert_binary_tree.cpp)
+- [x] [Same Tree](Week_4/Day_1/same_tree.cpp)
 
 #### Day 2: Traversals
-- [ ] [Binary Tree Inorder Traversal](Week_4/Day_2/binary_tree_inorder_traversal.cpp)
-- [ ] [Binary Tree Level Order Traversal](Week_4/Day_2/binary_tree_level_order_traversal.cpp)
-- [ ] [Binary Tree Zigzag Level Order Traversal](Week_4/Day_2/binary_tree_zigzag_level_order_traversal.cpp)
+- [x] [Binary Tree Inorder Traversal](Week_4/Day_2/binary_tree_inorder_traversal.cpp)
+- [x] [Binary Tree Level Order Traversal](Week_4/Day_2/binary_tree_level_order_traversal.cpp)
+- [x] [Binary Tree Zigzag Level Order Traversal](Week_4/Day_2/binary_tree_zigzag_level_order_traversal.cpp)
 
 #### Day 3: Binary Search Tree
-- [ ] [Search in a Binary Search Tree](Week_4/Day_3/search_in_a_binary_search_tree.cpp)
-- [ ] [Validate Binary Search Tree](Week_4/Day_3/validate_binary_search_tree.cpp)
-- [ ] [Lowest Common Ancestor of a BST](Week_4/Day_3/lowest_common_ancestor_of_a_bst.cpp)
+- [x] [Search in a Binary Search Tree](Week_4/Day_3/search_in_a_binary_search_tree.cpp)
+- [x] [Validate Binary Search Tree](Week_4/Day_3/validate_binary_search_tree.cpp)
+- [x] [Lowest Common Ancestor of a BST](Week_4/Day_3/lowest_common_ancestor_of_a_bst.cpp)
 
 #### Day 4: Path Based Problems
-- [ ] [Path Sum](Week_4/Day_4/path_sum.cpp)
-- [ ] [Diameter of Binary Tree](Week_4/Day_4/diameter_of_binary_tree.cpp)
-- [ ] [Binary Tree Maximum Path Sum](Week_4/Day_4/binary_tree_maximum_path_sum.cpp)
+- [x] [Path Sum](Week_4/Day_4/path_sum.cpp)
+- [x] [Diameter of Binary Tree](Week_4/Day_4/diameter_of_binary_tree.cpp)
+- [x] [Binary Tree Maximum Path Sum](Week_4/Day_4/binary_tree_maximum_path_sum.cpp)
 
 #### Day 5: Advanced Trees
-- [ ] [Symmetric Tree](Week_4/Day_5/symmetric_tree.cpp)
-- [ ] [Construct Binary Tree from Preorder and Inorder Traversal](Week_4/Day_5/construct_binary_tree_from_preorder_and_inorder_traversal.cpp)
-- [ ] [Serialize and Deserialize Binary Tree](Week_4/Day_5/serialize_and_deserialize_binary_tree.cpp)
+- [x] [Symmetric Tree](Week_4/Day_5/symmetric_tree.cpp)
+- [x] [Construct Binary Tree from Preorder and Inorder Traversal](Week_4/Day_5/construct_binary_tree_from_preorder_and_inorder_traversal.cpp)
+- [x] [Serialize and Deserialize Binary Tree](Week_4/Day_5/serialize_and_deserialize_binary_tree.cpp)
 
 ## Repository Structure
 
